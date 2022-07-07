@@ -1,5 +1,6 @@
 {
 "language","en-US",
 "needSim":true,
-"verCode":[202206161]
+"verCode":[202206161],
+"channel":["admob", "google"]
 }
