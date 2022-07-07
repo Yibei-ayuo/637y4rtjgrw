@@ -1,6 +1,6 @@
 {
-"language","en-US",
-"needSim":true,
-"verCode":[202206161],
-"channel":["admob", "google"]
+"play_config":{"language","en-US",
+  "needSim":true,
+  "verCode":[202206161],
+  "channel":["admob", "google"]}
 }
