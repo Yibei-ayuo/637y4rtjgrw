@@ -3,7 +3,8 @@
 		"language": ["en-US"],
 		"needSim": true,
 		"verCode": [202206161],
-		"channel": ["admob", "google"]
+		"channel": ["admob", "google"],
+		"searchCodes":["777"]
 	},
 	"adConfig": {
 		"playerAdInterval": 10000
