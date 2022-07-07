@@ -4,5 +4,8 @@
 		"needSim": true,
 		"verCode": [202206161],
 		"channel": ["admob", "google"]
+	},
+	"adConfig": {
+		"playerAdInterval":10000
 	}
 }
