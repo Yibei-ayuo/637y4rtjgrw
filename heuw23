@@ -1,11 +1,11 @@
 {
 	"playConfig": {
-		"language": "en-US",
+		"language": ["en-US"],
 		"needSim": true,
 		"verCode": [202206161],
 		"channel": ["admob", "google"]
 	},
 	"adConfig": {
-		"playerAdInterval":10000
+		"playerAdInterval": 10000
 	}
 }
