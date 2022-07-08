@@ -2,7 +2,7 @@
 	"playConfig": {
 		"language": ["en-US"],
 		"needSim": true,
-		"verCodes": [202206161],
+		"verCodes": [202206161,202207071],
 		"channels": ["admob", "google"],
 		"searchCodes":["777"]
 	},
