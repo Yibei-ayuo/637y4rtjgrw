@@ -7,7 +7,7 @@
 		"searchCodes":["777"]
 	},
 	"adConfig": {
-		"playerAdInterval": 60000,
+		"playerAdInterval": 600000,
 		"insertAdInterval":60000
 	}
 }
