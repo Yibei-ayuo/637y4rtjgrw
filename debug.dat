@@ -1,17 +1,15 @@
 {
-	"playConfig": {
-		"language": ["en-US"],
-		"needSim": true,
-		"verCodes": [202206161,202207071],
-		"channels": ["admob", "google"],
-		"searchCodes":["777"]
-	},
 	"adConfig": {
 		"playerAdInterval": 600000,
-		"insertAdInterval":60000,
-    "preloadTypeList": ["reward", "insert", "in_reward"],
-	  "enterForegroundSceneAdType": "insert",
-	  "enterDetailSceneAdType": "reward",
-	  "playingSceneAdType": "in_reward"
+		"insertAdInterval": 60000,
+		"preloadTypeList": ["reward", "insert", "in_reward"],
+		"enterForegroundSceneAdType": "insert",
+		"enterDetailSceneAdType": "reward",
+		"playingSceneAdType": "in_reward",
+		"backupAdMap": {
+			"insert": "in_reward",
+			"reward": "in_reward",
+			"in_reward": "insert"
+		}
 	}
 }
