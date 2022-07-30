@@ -4,12 +4,7 @@
 		"insertAdInterval": 60000,
 		"preloadTypeList": ["reward", "insert", "in_reward"],
 		"enterForegroundSceneAdType": "insert",
-		"enterDetailSceneAdType": "reward",
-		"playingSceneAdType": "in_reward",
-		"backupAdMap": {
-			"insert": "in_reward",
-			"reward": "in_reward",
-			"in_reward": "insert"
-		}
+		"enterDetailSceneAdType": "insert",
+		"playingSceneAdType": "insert"
 	}
 }
