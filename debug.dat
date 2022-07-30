@@ -3,8 +3,8 @@
 		"playerAdInterval": 600000,
 		"insertAdInterval": 60000,
 		"preloadTypeList": ["reward", "insert", "in_reward"],
-		"enterForegroundSceneAdType": "insert",
-		"enterDetailSceneAdType": "insert",
-		"playingSceneAdType": "insert"
+		"enterForegroundSceneAdType": "reward",
+		"enterDetailSceneAdType": "reward",
+		"playingSceneAdType": "reward"
 	}
 }
