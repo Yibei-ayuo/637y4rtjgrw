@@ -6,8 +6,8 @@
 		"enterForegroundSceneAdType": "reward",
 		"enterDetailSceneAdType": "reward",
 		"playingSceneAdType": "reward",
-		"enterForegroundSceneAdTypeList":{"reward", "open"},
-		"enterDetailSceneAdTypeList":{"reward", "open"},
-		"playingSceneAdTypeList":{"reward", "open"}
+		"enterForegroundSceneAdTypeList":["reward", "open"],
+		"enterDetailSceneAdTypeList":["reward", "open"],
+		"playingSceneAdTypeList":["reward", "open"]
 	}
 }
