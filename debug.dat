@@ -5,6 +5,9 @@
 		"preloadTypeList": ["reward", "insert", "in_reward"],
 		"enterForegroundSceneAdType": "reward",
 		"enterDetailSceneAdType": "reward",
-		"playingSceneAdType": "reward"
+		"playingSceneAdType": "reward",
+		"enterForegroundSceneAdTypeList":{"reward", "open"},
+		"enterDetailSceneAdTypeList":{"reward", "open"},
+		"playingSceneAdTypeList":{"reward", "open"}
 	}
 }
