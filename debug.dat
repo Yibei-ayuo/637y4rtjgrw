@@ -6,8 +6,8 @@
 		"enterForegroundSceneAdType": "reward",
 		"enterDetailSceneAdType": "reward",
 		"playingSceneAdType": "reward",
-		"enterForegroundSceneAdTypeList":["reward", "open"],
-		"enterDetailSceneAdTypeList":["reward", "open"],
-		"playingSceneAdTypeList":["reward", "open"]
+		"enterForegroundSceneAdTypeList":["insert_max", "in_reward", "open", "reward_max"],
+		"enterDetailSceneAdTypeList":["insert_max", "in_reward", "open", "reward_max"],
+		"playingSceneAdTypeList":["reward_max", "in_reward", "insert_max", "open"]
 	}
 }
